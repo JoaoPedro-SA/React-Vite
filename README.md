@@ -1,3 +1,9 @@
+## Integrantes do Projeto:
+- Alan Araujo - 2401855
+- Ana Cláudia Monteiro - 2400505
+- Fernanda Figueiredo - 2401803
+- João Pedro - 2400834
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
